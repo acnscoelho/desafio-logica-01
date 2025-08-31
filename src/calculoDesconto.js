@@ -1,6 +1,6 @@
 function valorFinalDaCompra (valorDaCompra, desconto) {
-    const resulvalorFinalDaCompra = valorDaCompra - desconto;
-    return resulvalorFinalDaCompra;
+    const resultadoValorFinalDaCompra = valorDaCompra - desconto;
+    return resultadoValorFinalDaCompra;
 }
 
 
